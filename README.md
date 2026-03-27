@@ -14,3 +14,10 @@ Each sorting algorithm is encapsulated in its own class, adhering to a common in
 - Performance insights through visual behavior
 
 This application serves as an educational tool for students and anyone interested in learning or teaching sorting algorithms through visual exploration.
+
+### Algorithms included:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
